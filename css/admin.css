@@ -1,0 +1,56 @@
+#pp-wpsq-admin p {
+	max-width: 600px;
+}
+#pp-wpsq-intro p {
+	max-width: 800px;
+	font-size: 1.25em;
+}
+.pp-wpsq-form-section {
+	margin-bottom: 20px;
+}
+.pp-wpsq-form-row:not(:last-child) {
+	margin-bottom: 10px;
+}
+#pp-wpsq-admin td, #pp-wpsq-admin th {
+	padding: 5px 10px;
+}
+#pp-wpsq-admin .pp-wpsq-alignleft {
+	text-align: left;
+}
+#pp-wpsq-admin .pp-wpsq-aligncenter {
+	text-align: center;
+}
+#pp-wpsq-admin form {
+	padding-bottom: 50px;
+}
+#pp-wpsq-admin .pp-wpsq-jpeg-quality-cell {
+	width: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 140px;
+}
+.pp-wpsq-jpeg-quality-cell .rangeslider {
+	margin: 5px 0;
+}
+.pp-wpsq-jpeg-quality-cell .rangeslider__fill {
+	background-color: #ff6600;
+}
+.pp-wpsq-jpeg-quality-display {
+	float: right;
+	margin-right: -120px;
+	width: 100px;
+	box-sizing: border-box;
+}
+.pp-wpsq-jpeg-quality-row-all {
+	background-color: #ddd;
+}
+#pp-wpsq-image-sizes-table {
+	background-color: #fff;
+	border: 1px solid #ccc;
+}
+#pp-wpsq-image-sizes-table tbody tr:last-child td {
+	padding-bottom: 15px;
+}
+#pp-wpsq-admin .pp-wpsq-cb-description {
+	margin-left: 24px;
+}

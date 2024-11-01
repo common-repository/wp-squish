@@ -1,0 +1,11 @@
+Array
+(
+    [medium] => Array
+        (
+            [file] => me-2-300x300.jpg
+            [width] => 300
+            [height] => 300
+            [mime-type] => image/jpeg
+        )
+
+)
